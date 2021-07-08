@@ -62,7 +62,8 @@ def predict():
     dic = {'0': 'Bearded Goat' , '1':'Western Rise' , '2': 'KOTN', '3': 'johnnie-O' , '4': 'XTRATUF' , "5": 'Cotopaxi', '6': "Roark", '7': 'Taylor Stitch',     # Branch 1
                '8': 'Nasty Gal', '9': 'Birddogs', '10': 'John Elliott', '11': 'tentree' , '12': 'Marine Layer', '13': 'Rhone' , '14': 'Slowtide', '15': 'Fabletics' ,    # Branch 2
                '16': 'The North Face', '17': 'L.L. Bean' , '18': 'Girlfriend Collective', '19': 'Obey' , '20': 'Southern Marsh', '21': 'Mink Pink' , '22': 'The Row', '23': 'Salty Crew' ,    # Branch 3
-               '24': 'Outdoor Voices', '25': 'Tommy Bahama' , '26': 'Faherty',  '27': 'Patagonia' , '28': 'Salt Life',  '29': 'OnlyNY', '30': 'Free People', '31': 'Ivory Ella'}     # Branch 4
+               '24': 'Outdoor Voices', '25': 'Tommy Bahama' , '26': 'Faherty',  '27': 'Patagonia' , '28': 'Salt Life',  '29': 'OnlyNY', '30': 'Free People', '31': 'Ivory Ella',   # Branch 4
+	       '32': 'Lululemon', '33': 'RVCA', '34': 'Vineyard Vines', '35': 'Burberry', '36': 'Hollister', '37': 'Pendelton', '38': 'Life is Good', '39': 'Bridge & Burn'}      # Branch 4
             
     names = ['RM_NN_Ufeats_Ifeats.csv', 'RM_normalized.csv']
     
